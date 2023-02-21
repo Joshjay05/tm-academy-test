@@ -18,8 +18,13 @@ const Footer = () => {
       </div>
       <div className="middle">
         {" "}
-        <li> <a href="#register">Support</a></li>
-        <li> Terms & Conditions</li>
+        <li>
+        
+          <a href="#register">Support</a>
+        </li>
+        <li>
+          <a href="#register">Terms & Conditions</a>
+        </li>
       </div>
       <div className="right">
         <a href="/">
