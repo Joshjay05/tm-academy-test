@@ -12,10 +12,10 @@ function Image() {
     <section className="image-pic">
       <article className="courses">
         <div className="course-description">
-          <h1>A Collection of our Students in Class</h1>
+          <h1>A COLLECTION OF OUR STUDENT IN CLASS</h1>
           <p>
-          Conducive environment 
-With us, you learn with comfort. You learn in a conducive environment with all basic amenities at your disposal.
+            Here at TMAcademy, you learn with comfort. You learn in a serene and
+            friendly environment with well equiped amenities at your disposal.
           </p>
         </div>
 

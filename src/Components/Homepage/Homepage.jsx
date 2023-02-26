@@ -32,10 +32,10 @@ const Homepage = () => {
       Fh1: " Web Application(Frontend) Development",
       fspan: "View",
       Bh4: "Web Application Development",
-      overview: "overview",
+      overview: "Overview",
       h5: "Tools",
       courseDetails:
-        "The Scope of the Front end web development course is to equip learners with the unique skills they need to build and develop a variety of websites and applications using best practices to structure HTML, CSS and Javascript and using frameworks such as React to build powerful and modular applications ",
+        "The Front-end web development course is to designed to equip learners with the unique skills they need to build and develop a variety of websites and applications using best practices to structure HTML, CSS and Javascript and using frameworks such as React to build powerful and modular applications ",
       background: Frontend,
       img1: html,
       img2: angular,
@@ -48,10 +48,10 @@ const Homepage = () => {
       Fh1: " Backend Development",
       fspan: "View",
       Bh4: "Backend Development",
-      overview: "overview",
+      overview: "Overview",
       h5: "Tools",
       courseDetails:
-        "  The main focus of this course is to understand application architecture, coding in different languages like python,NodeJs e.t.c and also to design and build APIs ",
+        "  The main focus of this course is to understand application architecture, coding in different languages like python,NodeJs and so on. Also to design and build APIs ",
 
       background: Backend,
       img1: aws,
@@ -66,10 +66,10 @@ const Homepage = () => {
       Fh1: " Mobile Development",
       fspan: "View",
       Bh4: "Mobile Development",
-      overview: "overview",
+      overview: "Overview",
       h5: "Tools",
       courseDetails:
-        "  Mobile Development refrs to reating applications and any other kind of software development speific to mobile devices, including tablets and smart watches. Mobile Development seeks to optimize functionality and user experience on mobile devices ",
+        "  Mobile Development refers to recreating applications and any other kind of software development specific to mobile devices, including tablets and smart watches. Mobile Development seeks to optimize functionality and user experience on mobile devices ",
 
       background: mobile,
       img1: flutter,

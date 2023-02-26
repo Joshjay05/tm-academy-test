@@ -17,16 +17,15 @@ const Header = () => {
       </div>
       <div className="text-box">
         <h4 data-aos="fade-down" data-aos-duration="2000">
-          JOIN OUR COMMUNITY OF TECHIES AND LEARN, EMPLOYMENT OPPORTUNITY
-          DRIVEN, PROJECT BASED AND AFFORDABLE TECH SKILLS.
+          JOIN OUR COMMUNITY OF TECHIES AND LEARN EMPLOYMENT OPPORTUNITY DRIVEN
+          PROJECT BASED AND AFFORDABLE TECH SKILLS.
         </h4>
         <div className="space"></div>
         <p data-aos="zoom-in-up" data-aos-duration="2000">
           Your career is defined by what you know and how well you know it. Take
           your Tech skills to the next level. Learn the latest in technology
-          stacks from experts with real-world exercises & projects on all
-          courses. Learn through applicative real-life projects developed by
-          industry experts
+          stacks from experts with authentic projects & exercise on all
+          projects.
         </p>
       </div>
 
